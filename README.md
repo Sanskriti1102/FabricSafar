@@ -27,3 +27,7 @@ Duplicate an HTML file in `articles/`, edit its content and metadata, then add a
 Navy `#0B1F3A` · Amber `#F5A623` · Soft blue `#7FA3D1` · Off-white `#F4F1EA`.
 
 Articles are starter educational guides. Verify current product details and certification objectives using official Microsoft documentation. FabricSafar is independent and not affiliated with Microsoft.
+
+
+## Author byline
+The original uploaded author photograph is stored at `assets/sanskriti-kadam.png` and is shown with the byline **By Sanskriti Kadam** on article cards and article pages.
