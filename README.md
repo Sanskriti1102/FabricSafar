@@ -1,33 +1,23 @@
 # FabricSafar
 
-Responsive multi-page technical learning publication built with plain HTML, CSS and JavaScript.
+An independent technical learning publication by Sanskriti Kadam.
 
-## Pages
-- `index.html` — homepage and topic discovery
-- `articles.html` — searchable article library
-- `articles/` — six starter learning guides
-- `certifications.html` — certification hub and PL-900 study framework
-- `resources.html` — official Microsoft learning links
-- `about.html` — publication purpose and editorial promise
+## What's included
+- Expandable left navigation for Power BI, Microsoft Fabric, Power Automate, Power Platform, Cloud and Security.
+- Topic landing pages with concept anchors mirrored in the sidebar.
+- Article listing and six starter articles, with the author avatar and byline.
+- Certification hub with individual pages for PL-900, PL-300, DP-600, DP-700 and retired exam archives (PL-400, PL-200, PL-500, PL-600).
+- Dark/light theme switch with saved visitor preference.
+- Responsive layout for desktop and mobile.
 
-## Preview
-Open `index.html` in a browser. No build step or package installation is required.
+## Author image
+`assets/sanskriti-kadam-original.jpg` preserves the exact uploaded photograph.
+`assets/sanskriti-kadam-avatar.jpg` is a 600x600 square avatar generated from that exact photo and displayed as a circular author image.
 
 ## Publish with GitHub Pages
-1. Create a GitHub repository, e.g. `fabricsafar`.
-2. Upload all files and folders in this package to the repository root.
-3. Go to **Settings → Pages**.
-4. Choose **Deploy from a branch**, select `main` and `/ (root)`, then save.
-5. Wait for GitHub Pages to publish your site.
+1. Upload the contents of this folder to the root of your GitHub repository.
+2. Open Settings → Pages.
+3. Select Deploy from a branch, choose `main` and `/ (root)`, then save.
 
-## Add articles
-Duplicate an HTML file in `articles/`, edit its content and metadata, then add a card linking to it in `articles.html`.
-
-## Brand palette
-Navy `#0B1F3A` · Amber `#F5A623` · Soft blue `#7FA3D1` · Off-white `#F4F1EA`.
-
-Articles are starter educational guides. Verify current product details and certification objectives using official Microsoft documentation. FabricSafar is independent and not affiliated with Microsoft.
-
-
-## Author byline
-The original uploaded author photograph is stored at `assets/sanskriti-kadam.png` and is shown with the byline **By Sanskriti Kadam** on article cards and article pages.
+## Accuracy note
+Certification status, exam length and exam objectives can change. Each exam page links to the official Microsoft Learn credential page and study guide. Verify current details before scheduling.
