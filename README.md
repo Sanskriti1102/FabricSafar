@@ -7,6 +7,7 @@ An independent technical learning publication by Sanskriti Kadam.
 - Topic landing pages with concept anchors mirrored in the sidebar.
 - Article listing and six starter articles, with the author avatar and byline.
 - Certification hub with individual pages for PL-900, PL-300, DP-600, DP-700 and retired exam archives (PL-400, PL-200, PL-500, PL-600).
+- Contact Us page linked from the About section on every page, with LinkedIn, Instagram and a YouTube placeholder.
 - Dark/light theme switch with saved visitor preference.
 - Responsive layout for desktop and mobile.
 
